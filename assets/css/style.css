@@ -1,3 +1,11 @@
+/*!
+Template Name: Revolver
+Template URI: https://anddevuk.com
+Author: anddevuk
+Author URI: https://anddevuk.com
+Description: Description
+Version: 1.0.0
+*/
 @charset "UTF-8";
 
 @import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
@@ -6,19 +14,6 @@
   font-family: redOktober;
   src: url(../fonts/Red\ October.ttf);
 }
-
-/*!
-Template Name: Revolver
-Template URI: https://anddevuk.com
-Author: anddevuk
-Author URI: https://anddevuk.com
-Description: Description
-Version: 1.0.0
-Text Domain: turulav
-Tags: community, couple, creative, dating, groups, love template, matching, members, online dating, profile, relationship, romance, social media, social network
-
-*/
-
 
 .footer-socials i {
   font-size:48px;
